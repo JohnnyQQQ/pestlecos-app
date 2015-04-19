@@ -1,5 +1,5 @@
 {
-  "name": "ionFullApp",
+  "name": "Pestle & Mortar",
   "app_id": "a2ced682",
   "gulpStartupTasks": [
     "sass",
